@@ -1,1 +1,1 @@
-print("Hello, World!")
+print("Stop with the Cigarettes and Start with the Gym")
