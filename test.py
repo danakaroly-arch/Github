@@ -1,1 +1,1 @@
-print("Stop with the Cigarettes and Start with the Gym")
+print("Stop with the Cigarettes and Start with the Gym!")

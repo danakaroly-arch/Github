@@ -1,0 +1,1 @@
+print ("Saturday 01st November 2025")   
